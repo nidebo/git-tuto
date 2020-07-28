@@ -2,6 +2,10 @@
     border: 2px solid seagreen;
     background-color: rgb(199, 236, 218);
 }
-.name-user {
-    color:blue;
+
+.name-user{
+    color: green;
 }
+
+.superuser{
+    color: oranged;
