@@ -1,5 +1,4 @@
-.container{
-    display:flex;
-    width: 400vw;
-    background-color: #eee;
+.button-send{
+    border: 2px solid seagreen;
+    background-color: rgb(199, 236, 218);
 }
