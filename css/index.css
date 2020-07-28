@@ -6,3 +6,7 @@
 .name-user{
     color: green;
 }
+
+.superuser{
+    color: red;
+}
