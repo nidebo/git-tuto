@@ -9,3 +9,9 @@
 
 .superuser{
     color: oranged;
+}
+
+.password {
+    color: blue;
+    font-size: large;
+}
